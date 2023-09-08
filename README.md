@@ -1,1 +1,1 @@
-# OpenOptions
+# OpenOptionsPanelLibrary (OpenOPL)
